@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(136, 8, 8);
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    background-color: rgb(76, 205, 50);
+    padding: 8px;
+    color: black;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul.homeUL{
+    text-align: center;
+    list-style: none;
+    font-size: larger;
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellowgreen;
+}
+
+footer{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+hr{
+    width: 100%;
+    height: 0.1px;
+    
+}
+
+li{
+    color: aliceblue;
+}
+
